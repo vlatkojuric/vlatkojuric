@@ -9,7 +9,7 @@ I am a motivated and enthusiastic junior developer with a strong interest in lea
 
 * Programming Languages: JavaScript
 * Frameworks: ReactJS
-* DevOps: Git, GitHub
+* Other: Git, GitHub, Kanban , Agile Workflow
 
 **Personal Interests**
 
