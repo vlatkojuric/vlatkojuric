@@ -13,7 +13,7 @@ I am a motivated and enthusiastic junior developer with a strong interest in lea
 
 **Personal Interests**
 
-* **Nature and Animals:** I love spending time outdoors and exploring the natural world. I am also passionate about animal welfare and conservation.
+* **Nature and Animals:** I love spending time outdoors and exploring the natural world. I love doggos 🐕
 * **Friendships:** I value my friendships and enjoy spending time with my loved ones.
 
 **Career Goals**
