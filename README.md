@@ -1,3 +1,5 @@
+<img src= "Soft Brown Simple Watercolor Linkedin Banner (1).png" width= 100% />
+
 # Hello,my name is Vlatko
 
 **A passionate junior developer with a passion for technology, fitness, and the outdoors.**
