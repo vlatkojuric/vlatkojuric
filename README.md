@@ -117,3 +117,6 @@ See [my website](https://juricvlatko.netlify.app/) for more information!
   <a href="https://twitter.com/trashhdev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
+
+  ![Vlatko's Stats](https://github-readme-stats.vercel.app/api?username=vlatkojuric&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Vlatko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlatkojuric&theme=default&hide_border=true)
