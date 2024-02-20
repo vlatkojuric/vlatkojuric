@@ -104,6 +104,7 @@ See [my website](https://juricvlatko.netlify.app/) for more information!
    <span><img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/></span>
   <span><img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/></span>  
    <span><img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/></span> 
+   <span><img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/></span>
 
 
 <h1 align="center">Connect</h1>
