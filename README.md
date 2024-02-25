@@ -2,7 +2,7 @@
 
 
 <span align="center">
-  <a href="https://juricvlatko.netlify.app/" target="_blank">
+  <a href="https://vlatkojuric.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vlatkojuric/" target="_blank">
@@ -15,7 +15,7 @@
 
 Whether meticulously fulfilling orders or operating complex machinery, I always had an eye for how things could be improved. Realizing the power of well-crafted software, I decided to harness my problem-solving skills and learn programming. I'm passionate about creating intuitive solutions that make a real difference.
 
-See [my website](https://juricvlatko.netlify.app/) for more information!
+See [my website](https://vlatkojuric.netlify.app/) for more information!
 
 
 <h1 align="center">Projects</h1>
@@ -109,7 +109,7 @@ See [my website](https://juricvlatko.netlify.app/) for more information!
 
 <h1 align="center">Connect</h1>
 
- <a href="https://juricvlatko.netlify.app/" target="_blank">
+ <a href="https://vlatkojuric.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vlatkojuric/" target="_blank">
