@@ -23,7 +23,7 @@ See [my website](https://juricvlatko.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">World Countries </h3>
+      <h3 align="center">World Explorer </h3>
         <br />
         <a target="_blank" href="https://search-the-world.netlify.app/">
             <img src="world-countries.gif" width="100%" alt="counntry info app"/>
@@ -62,7 +62,7 @@ See [my website](https://juricvlatko.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Random Advice Giver</h3>
+      <h3 align="center">Fortune's Whisper</h3>
       <br />
         <a target="_blank" href="https://random-advice-giver.netlify.app/">
           <img src="random-advice.gif" width="100%" alt="advice"/>
